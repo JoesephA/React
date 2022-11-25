@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa7af7d7.css",
+    "main.js": "/static/js/main.2f4215be.js",
+    "static/media/portrait-2.jpg": "/static/media/portrait-2.cbae7163951839fd922c.jpg",
+    "static/media/portrait-1.jpg": "/static/media/portrait-1.2688819aafdd38fd9491.jpg",
+    "static/media/xiaomi.png": "/static/media/xiaomi.77929aea98af2e8cb259.png",
+    "static/media/iPhone-14-PNG.png": "/static/media/iPhone-14-PNG.3bae8efed45d10b7ce42.png",
+    "static/media/samsung.png": "/static/media/samsung.f6bb8f49ca1f3f936743.png",
+    "static/media/iphonebild.png": "/static/media/iphonebild.8fe8961ed8e71f9b5904.png",
+    "index.html": "/index.html",
+    "main.fa7af7d7.css.map": "/static/css/main.fa7af7d7.css.map",
+    "main.2f4215be.js.map": "/static/js/main.2f4215be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7af7d7.css",
+    "static/js/main.2f4215be.js"
+  ]
+}
